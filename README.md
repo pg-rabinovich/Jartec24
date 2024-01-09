@@ -11,7 +11,7 @@
 
 
            JARTEC tiene las siguientes inteciones en su contenido:
-                1- Promover el arte, el diseño y los inventos con el concurso Jartec24.
+                1- Promover el juego, el arte y la tecnología a través del concurso Jartec24.
                 2- Creación de una tienda donde se puedan vender las obras.
                 3- Es para el disfrute de chicos y grandes! 
         
