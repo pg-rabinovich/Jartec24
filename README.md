@@ -2,12 +2,12 @@
 
 
 
-        Video-muestra: portfolio de Gisele Rabinovich / PARTE 1: Front-End 
+       Portfolio de Gisele Rabinovich / PARTE 1: Front-End 
 
            JARTEC es una pagina web ficticia.
                 Realizada con Next.js, framework para React.
                 Escrita en TypeScript.
-                Diseñada con Bootstrap y Chakra UI. </h2><br />
+                Diseñada con Bootstrap y Chakra UI. 
 
 
            JARTEC tiene las siguientes inteciones en su contenido:
