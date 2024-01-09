@@ -1,0 +1,197 @@
+/*Navbar/Navbar2.tsx y grales*/
+
+.fondo {
+  background-color: #272a2b;
+}
+
+.titulo {
+  color: yellow;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 36px; /*Hace que el titulo se achique conforme se achica la pantalla//responsive*/
+  letter-spacing: 3px;
+  
+}
+
+@media (max-width: 768px) {
+  .titulo {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 410px)  {
+  .titulo {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 280px)  {
+  .titulo {
+    font-size: 8px;
+  }
+}
+
+
+
+.links {
+  font-size: 20px;
+  color: aquamarine;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+
+/*Contacto.tsx*/
+
+.links2 {
+  font-size: 16px;
+  color: aquamarine;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.titulo2 {
+  font-size: 30px;
+  color: yellow;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  letter-spacing: 3px;
+  margin-top: 10px;
+}
+
+@media (max-width: 768px) {
+  .titulo2 {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 410px)  {
+  .titulo2 {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 280px)  {
+  .titulo2 {
+    font-size: 8px;
+  }
+}
+
+
+
+/*CarritoDesplegable.tsx */
+
+.carritoDesplegable {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 300px;
+  /* Ancho de la ventana desplegable */
+  height: 100%;
+  /* Altura de la ventana desplegable */
+  background-color: #dfed83;
+  /* Color de fondo */
+  box-shadow: -3px 0 6px rgba(0, 0, 0, 0.1);
+  /* Sombra del borde */
+  padding: 20px;
+  /* Espaciado interior */
+  overflow-y: auto;
+  /* Agregar desplazamiento vertical si es necesario */
+  z-index: 6000;
+  /* Asegura que esté en la parte superior */
+}
+
+
+.titulo3 {
+  font-size: 23px;
+  color: #272a2b;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.productFont {
+
+  font-size: 22px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.productFont2 {
+
+  font-size: 18px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.productFont3 {
+
+  font-size: 22px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+}
+
+
+/*Cards-Productos*/
+
+.cardText {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/*Descripcion*/
+@import url('https://fonts.googleapis.com/css2?family=Vina+Sans&display=swap');
+
+.texto{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: yellow;
+  
+}
+
+
+/*Regalos*/
+
+.rotacion {
+  animation: rotate 3s infinite alternate;
+ 
+ 
+}
+
+@keyframes rotate {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+
+
+.fondo2{
+  background: linear-gradient(135deg, #ff69b4, yellow);
+  
+}
+
+.letraRegalos{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 46px;
+  letter-spacing: 3px;
+ 
+  
+
+}
+
+
+/*Login*/
+
+.formText{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: goldenrod;
+}
+
+.formText2{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: lightcyan;
+  font-size: 16px;
+}
+
+
+
+
+
+/*ANOTAR SECCION*/
