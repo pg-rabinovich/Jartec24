@@ -2,7 +2,7 @@
 
 
 
-       Portfolio de Gisele Rabinovich / PARTE 1: Front-End 
+      Video-Portfolio de Gisele Rabinovich / PARTE 1: Front-End 
 
            JARTEC es una pagina web ficticia.
                 Realizada con Next.js, framework para React.
@@ -13,7 +13,7 @@
            JARTEC tiene las siguientes inteciones en su contenido:
                 1- Promover el juego, el arte y la tecnología a través del concurso Jartec24.
                 2- Creación de una tienda donde se puedan vender las obras.
-                3- Es para el disfrute de chicos y grandes! 
+                3- Es para el disfrute de chicos y grandes.
         
 
          Próximamente PARTE 2: Back-End.
@@ -21,6 +21,13 @@
                 la subida de material de los usuarios para participar del concurso 
                 y el envío del formulario de contacto.
                 El framework que utilizo es Django y el lenguaje es Python. 
+
+
+          Para ver el video pulse aquí: https://drive.google.com/file/d/15ZcIDv7kifJvTF0nODrG80rWKTrdG4pL/view?usp=share_link
+
+
+
+          
           
 
 
