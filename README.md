@@ -23,7 +23,9 @@
                 El framework que utilizo es Django y el lenguaje es Python. 
 
 
-          Para ver el video pulse aquí: https://drive.google.com/file/d/15ZcIDv7kifJvTF0nODrG80rWKTrdG4pL/view?usp=share_link
+          Para ver el video del proyecto Jartec24 copie y pegue el siguiente link por favor:
+           https://drive.google.com/file/d/15ZcIDv7k
+           ifJvTF0nODrG80rWKTrdG4pL/view?usp=share_link
 
 
 
