@@ -25,7 +25,8 @@
 
           Para ver el video del proyecto Jartec24:
 
-          [![VIDEO JARTEC24](https://img.youtube.com/vi/qdf3VBwUqlc/0.jpg)](https://youtu.be/qdf3VBwUqlc)
+         [Ver Video del Proyecto Jartec24:](https://youtu.be/qdf3VBwUqlc)
+
 
 
                
