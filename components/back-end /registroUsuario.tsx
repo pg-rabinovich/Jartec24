@@ -55,13 +55,11 @@ const RegistroUsuario = () => {
                                     <input type="password" className="form-control" id="floatingPassword" placeholder="Password" />
                                     <label className={`text-nowrap ${styles.formText}`}>Repite la contraseña</label>
                                 </div>
-                                <br/>
+                                <br />
                                 <Link href="/login">
-                                <button className={` text-nowrap w-100 btn btn-sm btn-success ${styles.formText2}`} type="submit">Crea tu cuenta Jartec</button>
+                                    <button className={` text-nowrap w-100 btn btn-sm btn-success ${styles.formText2}`} type="submit">Crea tu cuenta Jartec</button>
                                 </Link>
                             </form>
-
-
 
                         </div>
                     </div>
