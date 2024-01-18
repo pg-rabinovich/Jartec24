@@ -28,7 +28,7 @@ const NavBar = () => {
                                 <a className={`nav-link ${styles.links}`} href="#contacto">Contacto</a>
                             </li>
                             <li className="nav-item">
-                                <a className={`nav-link ${styles.links}`} href="/login">
+                                <a className={`nav-link  ${styles.links}`} href="/login">
                                     <span className="bi bi-box-arrow-in-right"> Login
                                     </span>
                                 </a>

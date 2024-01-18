@@ -15,18 +15,37 @@ const LoginUsuario = () => {
 
                 }}>
 
-                <Link href="/">
-                    <button type="button" className={`navbar-brand btn ${styles.titulo}`}>
-                        <span className="bi bi-brightness-high-fill"> JARTEC</span>
-                    </button>
-                </Link>
+                <nav className="navbar navbar-expand-lg">
+                    <div className="container-fluid">
 
-                <div className='text-nowrap  text-center text-warning opacity-75 '>
-                    <h4 className=' fw-lighter '>Iniciar Sesion</h4>
+                        <Link href="/">
+                            <button type="button" className="navbar-brand btn ">
+                                <span className={`bi bi-brightness-high-fill ${styles.titulo}`}> JARTEC</span>
+                            </button>
+                        </Link>
+                        <Link href="/registro">
+                            <li  className="navbar-brand btn text-warning
+                            bi bi-box-arrow-in-right fs-4 fw-lighter">  Registrate </li>
+                            
+                        </Link>
+
+                    </div>
+                </nav>
+
+                {/*   <Link href="/registro">
+                    <div className='navbar-brand  text-end text-light '>
+                          <h2 className=' fw-lighter text-decoration-underline'> Registrate </h2>
+                    </div>
+                </Link> */}
+
+                <div className='text-nowrap  text-center text-warning  '>
+                    <h2 className=' fw-lighter  '>Iniciar Sesion</h2>
                 </div>
 
+
+
                 <div className='container'>
-                    <div className="row p-5 d-flex justify-content-center img-fluid">
+                    <div className="row p-3 d-flex justify-content-center img-fluid">
                         <div className="col-sm-6  col-md-8 col-lg-6  p-5 text-success shadow-lg bg-image"
 
                             style={{
@@ -38,8 +57,8 @@ const LoginUsuario = () => {
 
                             <form>
                                 <div className="form-floating">
-                                    <input type="email" className="form-control" id="floatingInput" placeholder="name@example.com" />
-                                    <label className={`text-nowrap ${styles.formText}`}>Email </label>
+                                    <input type="text" className="form-control" id="floatingInput" placeholder="name@example.com" />
+                                    <label className={`text-nowrap ${styles.formText}`}>Usuario </label>
                                 </div>
 
                                 <div className="form-floating">
@@ -63,12 +82,7 @@ const LoginUsuario = () => {
                     </div>
                 </div>
 
-                <Link href="/registro">
-                <div className='text-center text-warning opacity-75'>
-                    <h4 className=' fw-lighter'>o</h4>
-                     <h2 className=' fw-lighter text-decoration-underline'> Registrate </h2>
-                </div>
-                </Link>
+
 
             </div>
 
