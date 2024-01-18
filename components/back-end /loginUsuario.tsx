@@ -73,8 +73,9 @@ const LoginUsuario = () => {
                                 </div> */}
 
                                 <br />
-
+                                <Link href="/concursoJartec24">
                                 <button className={` text-nowrap w-100 btn btn-sm btn-success ${styles.formText2}`} type="submit">Ingresar</button>
+                                </Link>
                             </form>
 
 
