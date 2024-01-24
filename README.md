@@ -24,7 +24,7 @@
 
 
           Para ver el video del proyecto Jartec24 copie y pegue por favor:
-               https://youtu.be/qdf3VBwUqlc
+               https://youtu.be/7Lo8QBi92yc
 
 
 
