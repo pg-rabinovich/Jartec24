@@ -10,7 +10,7 @@
                 Diseñada con Bootstrap y Chakra UI. 
 
 
-           JARTEC tiene las siguientes inteciones en su contenido:
+           JARTEC tiene las siguientes intenciones en su contenido:
                 1- Promover el juego, el arte y la tecnología a través del concurso Jartec24.
                 2- Creación de una tienda donde se puedan vender las obras.
                 3- Es para el disfrute de chicos y grandes.
